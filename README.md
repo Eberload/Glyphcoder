@@ -1,3 +1,5 @@
+# Glyphcoder - Glyphcoder - Optical character recognition on images with format preservation
+
 Glyphcoder is an optical character recognition (OCR) tool for intelligently extracting text from images. It automatically groups lines and paragraphs, detects bold, italics, and uppercase letters, and allows for manual text formatting to achieve an exact copy. Ideal for digitizing document pages; export to TXT or HTML, or simply copy and paste into your favorite document editor.
 
 # EXECUTION
