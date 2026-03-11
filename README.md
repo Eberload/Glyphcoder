@@ -49,3 +49,6 @@ Glyphcoder supports two export formats:
 - TXT: Saves only plain text, without formatting.
 - HTML: Exports the text with all formatting tags applied (bold, italic, alignment, etc.), ready to open in a browser or include in a web page.
 - It is also possible to copy and paste directly into any document editor.
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/6.1.0.0.png)
+
