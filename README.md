@@ -34,8 +34,8 @@ Select part of the text with the cursor before applying the style, using the but
 - Superscript, subscript, convert to uppercase, convert to lowercase.
 - H1, H2, H3 (headings), and clear formatting (of the selected text).
 
-The formatting buttons are highlighted when the style is active.
-The 🗑️ Clear button erases the image and text, leaving the interface ready to start over.
+- The formatting buttons are highlighted when the style is active.
+- The 🗑️ Clear button erases the image and text, leaving the interface ready to start over.
 
 # IMPORTANT
 
@@ -52,3 +52,56 @@ Glyphcoder supports two export formats:
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/6.1.0.0.png)
 
+# Glyphcoder - Reconocimiento óptico de caracteres preservando el formato
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/4.1.0.0.png)
+
+Glyphcoder es una herramienta de reconocimiento óptico de caracteres para la extracción de texto en imágenes de forma inteligente. Agrupa automáticamente las líneas y párrafos, detecta negrita, cursiva, mayúsculas; además, permite formatear el texto de manera manual para lograr una copia exacta. Ideal para digitalizar páginas de documentos; exporta en TXT, HTML o simplemente copia y pega en tu editor de documentos favorito. 
+
+EJECUCIÓN
+- Descarga el archivo ejecutable "Glyphcoder.exe" desde el enlace proporcionado por el desarrollador.
+- No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
+- Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
+- El ejecutable incluye todas las dependencias necesarias.
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/3.1.0.0.jpg)
+
+- Tema: Claro/Oscuro
+- Idioma de la interfaz: Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/5.1.0.0.png)
+
+# Abrir una imagen
+      
+- Haz clic en 📂 Abrir imagen o arrastra un archivo directamente al visor.
+- La imagen se mostrará en el panel izquierdo.
+- Presiona 🔍 Procesar OCR.
+- La barra de progreso indicará el avance. Al terminar, el texto extraído aparecerá en el área central, con los párrafos y alineaciones detectados automáticamente.
+
+# Aplicar formato
+Selecciona parte del texto con el cursor antes de aplicar el estilo, usa los botones del panel derecho:
+      
+- Negrita, cursiva, subrayado, resaltado.
+- Alinear: izquierda, centro, derecha, justificado.
+- Superíndice, subíndice, convertir a mayúsculas, convertir a minúsculas.
+- H1, H2, H3 (encabezados), y limpiar formato (del texto seleccionado).
+      
+- Los botones de formato se resaltan cuando el estilo está activo.
+- El botón 🗑️ Limpiar borra la imagen y el texto, dejando la interfaz lista para empezar de nuevo.
+
+# IMPORTANTE
+      
+- Al ejecutar Procesar OCR por primera vez, la aplicación descargará los modelos de idioma. Esto puede tardar unos segundos y requiere conexión a internet.
+- Para mejores resultados, usa imágenes nítidas, con buen contraste y texto bien alineado.
+- Si cargas imágenes muy grandes, la aplicación puede consumir bastante RAM; si ves que el sistema se ralentiza, prueba con imágenes más pequeñas.
+
+# EXPORTAR 
+Glyphcoder soporta dos formatos de exportación:
+
+- TXT: Guarda solo el texto plano, sin formato.
+- HTML: Exporta el texto con todas las etiquetas de formato aplicadas (negrita, cursiva, alineación, etc.), listo para abrir en un navegador o incluir en una página web.
+- También es posible copiar y pegar directamente en cualquier editor de documentos.
+
+INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
