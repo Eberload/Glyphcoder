@@ -26,7 +26,7 @@ The 🗑️ Clear button erases the image and text, leaving the interface ready 
 
 # IMPORTANT
 
-- When you run Process OCR for the first time, the application will download the language models (English and Spanish). This may take a few seconds and requires an internet connection.
+- When you run Process OCR for the first time, the application will download the language models. This may take a few seconds and requires an internet connection.
 - For best results, use sharp images with good contrast and well-aligned text.
 - If you upload very large images, the application may consume a lot of RAM; if you notice the system slowing down, try smaller images.
 
