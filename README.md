@@ -1,5 +1,9 @@
 # Glyphcoder - Glyphcoder - Optical character recognition on images with format preservation
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/1.1.0.0.png)
+
 Glyphcoder is an optical character recognition (OCR) tool for intelligently extracting text from images. It automatically groups lines and paragraphs, detects bold, italics, and uppercase letters, and allows for manual text formatting to achieve an exact copy. Ideal for digitizing document pages; export to TXT or HTML, or simply copy and paste into your favorite document editor.
 
 # EXECUTION
@@ -7,6 +11,13 @@ Glyphcoder is an optical character recognition (OCR) tool for intelligently extr
 - No installation required: simply run the ".exe" file by double-clicking.
 - If you use antivirus software, make sure it allows execution (false positives are common in .exe files).
 - The executable includes all necessary dependencies.
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/3.1.0.0.jpg)
+
+- Theme: Light/Dark
+- Interface language: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
+
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/2.1.0.0.png)
 
 # Open an image
 
