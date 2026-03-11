@@ -1,4 +1,4 @@
-# Glyphcoder - Glyphcoder - Optical character recognition on images with format preservation
+# Glyphcoder - Optical character recognition on images with format preservation
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
