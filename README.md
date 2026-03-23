@@ -104,4 +104,5 @@ Glyphcoder soporta dos formatos de exportación:
 - HTML: Exporta el texto con todas las etiquetas de formato aplicadas (negrita, cursiva, alineación, etc.), listo para abrir en un navegador o incluir en una página web.
 - También es posible copiar y pegar directamente en cualquier editor de documentos.
 
-INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
+- INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
+- Application compatible with: Windows x64; Linux x64
