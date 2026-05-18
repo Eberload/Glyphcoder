@@ -2,7 +2,11 @@
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/1.1.0.0.png)
 
-Glyphcoder is an optical character recognition (OCR) tool for intelligently extracting text from images. It automatically groups lines and paragraphs, detects bold, italics, and uppercase letters, and allows for manual text formatting to achieve an exact copy. Ideal for digitizing document pages; export to TXT or HTML, or simply copy and paste into your favorite document editor.
+<div align="justify">
+<p>Glyphcoder is an optical character recognition (OCR) tool for intelligently extracting text from images. It automatically groups lines and paragraphs, detects bold, italics, and uppercase letters, and allows for manual text formatting to achieve an exact copy. Ideal for digitizing document pages; export to TXT or HTML, or simply copy and paste into your favorite document editor.</p>
+</div>
+
+
 
 # EXECUTION
 - Download the executable file "Glyphcoder.exe" from the link provided by the developer.
@@ -68,7 +72,10 @@ Glyphcoder supports two export formats:
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/4.1.0.0.png)
 
-Glyphcoder es una herramienta de reconocimiento óptico de caracteres para la extracción de texto en imágenes de forma inteligente. Agrupa automáticamente las líneas y párrafos, detecta negrita, cursiva, mayúsculas; además, permite formatear el texto de manera manual para lograr una copia exacta. Ideal para digitalizar páginas de documentos; exporta en TXT, HTML o simplemente copia y pega en tu editor de documentos favorito. 
+<div align="justify">
+<p>Glyphcoder es una herramienta de reconocimiento óptico de caracteres para la extracción de texto en imágenes de forma inteligente. Agrupa automáticamente las líneas y párrafos, detecta negrita, cursiva, mayúsculas; además, permite formatear el texto de manera manual para lograr una copia exacta. Ideal para digitalizar páginas de documentos; exporta en TXT, HTML o simplemente copia y pega en tu editor de documentos favorito. </p>
+</div>
+
 
 EJECUCIÓN
 - Descarga el archivo ejecutable "Glyphcoder.exe" desde el enlace proporcionado por el desarrollador.
