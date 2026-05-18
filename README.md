@@ -1,7 +1,5 @@
 # Glyphcoder - Optical character recognition on images with format preservation
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
-
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/1.1.0.0.png)
 
 Glyphcoder is an optical character recognition (OCR) tool for intelligently extracting text from images. It automatically groups lines and paragraphs, detects bold, italics, and uppercase letters, and allows for manual text formatting to achieve an exact copy. Ideal for digitizing document pages; export to TXT or HTML, or simply copy and paste into your favorite document editor.
@@ -11,6 +9,12 @@ Glyphcoder is an optical character recognition (OCR) tool for intelligently extr
 - No installation required: simply run the ".exe" file by double-clicking.
 - If you use antivirus software, make sure it allows execution (false positives are common in .exe files).
 - The executable includes all necessary dependencies.
+
+<p align="center">
+  <a href="https://github.com/Eberload/Glyphcoder/releases">
+    Download the latest version here.
+  </a>
+</p>
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/3.1.0.0.jpg)
 
@@ -50,11 +54,17 @@ Glyphcoder supports two export formats:
 - HTML: Exports the text with all formatting tags applied (bold, italic, alignment, etc.), ready to open in a browser or include in a web page.
 - It is also possible to copy and paste directly into any document editor.
 
+<div align="center">
+  <p><strong>Thank you for using Glyphcoder!</strong></p>
+ <p><strong>If you find it useful, consider donating.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
+
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/6.1.0.0.png)
 
 # Glyphcoder - Reconocimiento óptico de caracteres preservando el formato
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/4.1.0.0.png)
 
@@ -65,6 +75,12 @@ EJECUCIÓN
 - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
 - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
+
+<p align="center">
+  <a href="https://github.com/Eberload/Glyphcoder/releases">
+    Descarga la versión más reciente aquí.
+  </a>
+</p>
 
 ![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/3.1.0.0.jpg)
 
@@ -104,5 +120,15 @@ Glyphcoder soporta dos formatos de exportación:
 - HTML: Exporta el texto con todas las etiquetas de formato aplicadas (negrita, cursiva, alineación, etc.), listo para abrir en un navegador o incluir en una página web.
 - También es posible copiar y pegar directamente en cualquier editor de documentos.
 
-- INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
-- Application compatible with: Windows x64; Linux x64
+<div align="center">
+  <p><strong>¡Gracias por usar Glyphcoder!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
+
+<div align="justify">
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+<p>Application compatible with: Windows x64; Linux x64</p>
+</div>
