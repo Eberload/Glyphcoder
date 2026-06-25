@@ -140,6 +140,8 @@ Glyphcoder soporta dos formatos de exportación:
 <p>Application compatible with: Windows x64; Linux x64</p>
 </div>
 
+![alt text](https://github.com/Eberload/Glyphcoder/blob/main/Screenshots/L.1.0.1.png)
+
 <div align="center">
 <p><i>Glyphcoder AppImage running on Linux.</i></p>
 </div>
